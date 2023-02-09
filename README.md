@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @SHERWIN-HUYNH
+- 👋 Hi, I’m @CHI-TRUNG
 - 👀 I’m interested in learning new skills and having more experience in this field
 - 🌱 I’m currently learning C language
 - 💞️ I’m looking to collaborate on ...
